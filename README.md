@@ -1,2 +1,3 @@
-# go_with_tests
- Teaching myself Go!
+# Golang Arc
+Welcome! I'm currently teaching myself Go using the online textbook "Go with Tests".
+
